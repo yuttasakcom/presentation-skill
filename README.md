@@ -74,3 +74,19 @@
     - Action สิ่งที่ทำ
     - Result ผล
 ```
+
+## เล่าเรื่อง
+
+```
+1. ความสำคัญของการเล่าเรื่อง
+2. เลือกเรื่อง
+3. โครงสร้างเรื่องเล่า Freytag's Pyramid
+  - Exposition background ภูมิหลัง
+  - Inciting Incident เหตุการณ์ที่เกิดขึ้น
+  - Rising Action กระบวนการแก้ปัญหา
+  - Crisis วิกฤติ
+  - Climax จุดพีค
+  - Falling Action คลี่คลาย
+  - Denouement สรุป
+4. เทคนิคเล่าเรื่อง
+```
